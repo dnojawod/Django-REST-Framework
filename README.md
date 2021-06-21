@@ -1,1 +1,1 @@
-# Sample-Django-REST-Framework
+# Sample-Django-REST-Framework (APIview)
